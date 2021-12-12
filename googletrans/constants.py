@@ -167,6 +167,7 @@ LANGUAGES = {
     'sv': 'swedish',
     'tg': 'tajik',
     'ta': 'tamil',
+    'tt': 'tatar',
     'te': 'telugu',
     'th': 'thai',
     'tr': 'turkish',
